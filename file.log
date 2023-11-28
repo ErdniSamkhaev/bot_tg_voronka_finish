@@ -1,0 +1,61 @@
+2023-11-28 11:11:34.535 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:11:34.535240: Добрый день!
+2023-11-28 11:11:35.601 | INFO     | __main__:send_initial_photo:50 - Initial photo sent to user 313760888
+2023-11-28 11:11:35.899 | ERROR    | __main__:check_trigger_in_history:71 - Error checking trigger in history for user 313760888: Telegram says: [400 BOT_METHOD_INVALID] - The method can't be used by bots (caused by "messages.GetHistory")
+2023-11-28 11:11:49.713 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:11:49.713691: Подготовила для вас материал
+2023-11-28 11:12:06.034 | ERROR    | __main__:check_trigger_in_history:71 - Error checking trigger in history for user 313760888: Telegram says: [400 BOT_METHOD_INVALID] - The method can't be used by bots (caused by "messages.GetHistory")
+2023-11-28 11:13:05.834 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:13:05.834398: Добрый день!
+2023-11-28 11:13:06.986 | INFO     | __main__:send_initial_photo:50 - Initial photo sent to user 313760888
+2023-11-28 11:13:06.986 | ERROR    | __main__:check_trigger_in_history:70 - Error checking trigger in history for user 313760888: 'async_generator' object is not iterable
+2023-11-28 11:13:21.045 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:13:21.045682: Подготовила для вас материал
+2023-11-28 11:14:06.550 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:14:06.550821: Добрый день!
+2023-11-28 11:14:07.718 | INFO     | __main__:send_initial_photo:50 - Initial photo sent to user 313760888
+2023-11-28 11:14:07.942 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:14:07.942419: Скоро вернусь с новым материалом!
+2023-11-28 11:14:21.769 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:14:21.769099: Подготовила для вас материал
+2023-11-28 11:14:38.155 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:14:38.155744: Скоро вернусь с новым материалом!
+2023-11-28 11:25:27.151 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:25:27.151752: Добрый день!
+2023-11-28 11:25:28.330 | INFO     | __main__:send_initial_photo:50 - Initial photo sent to user 313760888
+2023-11-28 11:25:28.330 | ERROR    | __main__:check_trigger_in_history:71 - Error checking trigger in history for user 313760888: GetMessages.get_messages() got an unexpected keyword argument 'limit'
+2023-11-28 11:25:42.391 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:25:42.391414: Подготовила для вас материал
+2023-11-28 11:26:16.274 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:26:16.274186: Добрый день!
+2023-11-28 11:26:17.430 | INFO     | __main__:send_initial_photo:50 - Initial photo sent to user 313760888
+2023-11-28 11:26:17.431 | ERROR    | __main__:check_trigger_in_history:71 - Error checking trigger in history for user 313760888: No argument supplied. Either pass message_ids or reply_to_message_ids
+2023-11-28 11:26:31.459 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:26:31.459078: Подготовила для вас материал
+2023-11-28 11:26:47.460 | ERROR    | __main__:check_trigger_in_history:71 - Error checking trigger in history for user 313760888: No argument supplied. Either pass message_ids or reply_to_message_ids
+2023-11-28 11:27:36.408 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:27:36.408196: Добрый день!
+2023-11-28 11:27:37.607 | INFO     | __main__:send_initial_photo:50 - Initial photo sent to user 313760888
+2023-11-28 11:27:37.792 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:27:37.792621: Скоро вернусь с новым материалом!
+2023-11-28 11:27:51.623 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:27:51.623207: Подготовила для вас материал
+2023-11-28 11:28:08.004 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:28:08.004966: Скоро вернусь с новым материалом!
+2023-11-28 11:28:38.182 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:28:38.182978: Скоро вернусь с новым материалом!
+2023-11-28 11:29:08.353 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:29:08.353862: Скоро вернусь с новым материалом!
+2023-11-28 11:29:38.533 | INFO     | __main__:send_messages:22 - Message sent to user 313760888 at 2023-11-28 11:29:38.533865: Скоро вернусь с новым материалом!
+2023-11-28 11:45:53.618 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:45:53.618626: Добрый день!
+2023-11-28 11:45:54.781 | INFO     | __main__:send_initial_photo:51 - Initial photo sent to user 313760888
+2023-11-28 11:45:54.955 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:45:54.955954: Скоро вернусь с новым материалом!
+2023-11-28 11:46:03.801 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:46:03.801838: Подготовила для вас материал
+2023-11-28 11:46:10.513 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:46:10.513707: Скоро вернусь с новым материалом!
+2023-11-28 11:46:26.060 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:46:26.060744: Скоро вернусь с новым материалом!
+2023-11-28 11:46:41.569 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:46:41.569212: Скоро вернусь с новым материалом!
+2023-11-28 11:50:54.936 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 11:50:54.936046: Добрый день!
+2023-11-28 11:50:54.936 | ERROR    | __main__:check_trigger_in_history:56 - Error checking trigger in history for user 313760888: object async_generator can't be used in 'await' expression
+2023-11-28 11:51:05.152 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 11:51:05.152913: Подготовила для вас материал
+2023-11-28 11:51:09.952 | ERROR    | __main__:check_trigger_in_history:56 - Error checking trigger in history for user 313760888: object async_generator can't be used in 'await' expression
+2023-11-28 11:51:24.963 | ERROR    | __main__:check_trigger_in_history:56 - Error checking trigger in history for user 313760888: object async_generator can't be used in 'await' expression
+2023-11-28 11:51:46.873 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:51:46.873485: Добрый день!
+2023-11-28 11:51:47.938 | INFO     | __main__:send_initial_photo:51 - Initial photo sent to user 313760888
+2023-11-28 11:51:48.165 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:51:48.165868: Скоро вернусь с новым материалом!
+2023-11-28 11:51:57.077 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:51:57.077397: Подготовила для вас материал
+2023-11-28 11:52:03.829 | INFO     | __main__:send_messages:23 - Message sent to user 313760888 at 2023-11-28 11:52:03.829460: Скоро вернусь с новым материалом!
+2023-11-28 12:06:42.557 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:06:42.557471: Добрый день!
+2023-11-28 12:06:43.648 | INFO     | __main__:send_initial_photo:55 - Initial photo sent to user 313760888
+2023-11-28 12:06:43.813 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:06:43.813821: Скоро вернусь с новым материалом!
+2023-11-28 12:07:02.813 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:07:02.813227: Подготовила для вас материал
+2023-11-28 12:07:09.542 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:07:09.542975: Скоро вернусь с новым материалом!
+2023-11-28 12:08:54.566 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:08:54.566092: Добрый день!
+2023-11-28 12:08:55.832 | INFO     | __main__:send_initial_photo:53 - Initial photo sent to user 313760888
+2023-11-28 12:08:56.037 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:08:56.037690: Скоро вернусь с новым материалом!
+2023-11-28 12:09:06.439 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:09:06.439757: Скоро вернусь с новым материалом!
+2023-11-28 12:09:09.834 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:09:09.834394: Подготовила для вас материал
+2023-11-28 12:09:16.784 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:09:16.784660: Скоро вернусь с новым материалом!
+2023-11-28 12:09:27.197 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:09:27.197391: Скоро вернусь с новым материалом!
+2023-11-28 12:09:37.558 | INFO     | __main__:send_messages:25 - Message sent to user 313760888 at 2023-11-28 12:09:37.558324: Скоро вернусь с новым материалом!
